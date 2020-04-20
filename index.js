@@ -11,12 +11,17 @@ console.log(fifaData);
 (c) Home Team goals for 2014 world cup final
 (d) Away Team goals for 2014 world cup final
 (e) Winner of 2014 world cup final */
-
+//a
+// const worldCupFinalist = fifaData.findIndex(function(data, ){
+//     return data.
+// })
 
 /* Task 2: Create a function called  getFinals that takes `data` as an argument and returns an array of objects with only finals data */
 
-function getFinals(/* code here */) {
-
+function getFinals(data) {
+    fifaData.forEach(function(data){
+        return 
+    })
     /* code here */
 
 };
